@@ -1,2 +1,4 @@
 # Twitterbotarmy
-Create a twitter account automatically.
+With this software you are able to create a twitter account automatically.
+
+**NOTE: Only for academyc use! ;-)**
